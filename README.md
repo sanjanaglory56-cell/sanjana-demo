@@ -1,2 +1,3 @@
 # sanjana-demo
-This ismy first repository
+This is my first repository
+Author:sanjana
